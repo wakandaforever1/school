@@ -1,0 +1,42 @@
+body{
+  text-align:center;
+  background-color:mediumblue;
+  
+}
+
+.school_head
+{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+
+
+.menu{
+    list-style: none;
+    left: 100px;
+    top: 10px;
+    right: 30px; 
+    background-color: red
+        
+}
+.links:hover{
+    background-color:rgb(28, 0, 128)}
+.links{
+      float: left;
+      padding-left:100px;
+      padding-top: 5px; 
+      padding-right: 9px;
+      padding-bottom: 5px;
+     left: 100px; 
+    }
+
+     #footer{
+         height: 20px;
+         background-color: yellow;
+     }
+
